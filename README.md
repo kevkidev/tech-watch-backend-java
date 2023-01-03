@@ -1,4 +1,4 @@
 # tech-watch-backend-java
 Pour suivre les nouveautés sur l'ecosystème Java
-
-Voir Wiki: https://github.com/kevkidev/tech-watch-backend-java/wiki
+Technological watch
+see Wiki: https://github.com/kevkidev/tech-watch-backend-java/wiki
