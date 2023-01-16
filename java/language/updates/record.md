@@ -1,4 +1,4 @@
-# java.lang.Record (Java 16+)
+# java.lang.Record (Java SE 16+)
 
 https://docs.oracle.com/en/java/javase/16/language/records.html
 
