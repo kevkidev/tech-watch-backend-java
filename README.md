@@ -1,9 +1,7 @@
-# tech-watch-backend-java
+# Veille Backend : Java / Spring / etc.
 
 - Technological watch
 - Pour suivre les nouveautés sur l'ecosystème Java
-
-# Veille Backend : Java / Spring / etc.
 
 - Java
   - [Java language updates](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/index.md)
@@ -14,5 +12,5 @@
   - v16+
     - [Record Classes](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/record.md)
     - [Pattern Matching for instanceof]()
-- [Spring Framework]()
-- [Learning resources]()
+- [Spring Framework](https://github.com/kevkidev/tech-watch-backend-java/blob/master/spring/boot/index.md)
+- [Learning resources](https://github.com/kevkidev/tech-watch-backend-java/blob/master/learning/index.md)
