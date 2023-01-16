@@ -1,0 +1,3 @@
+- MS learn : https://learn.microsoft.com/fr-fr/
+- Cloud native computing foundation : https://www.cncf.io/
+- Oracle learn : https://docs.oracle.com/learn/
