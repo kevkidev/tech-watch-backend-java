@@ -13,7 +13,7 @@
 - v13 : `switch (preview) 🌀`, `text blocks (preview) 🌀`
 - v14 : `switch ✅`, `text blocks (preview) 🌀`, `records classes (preview) 🌀`, `instanceof (preview) 🌀`
 - v15 : `sealed classes (preview) 🌀`, `record classes (preview) 🌀`, `instanceof (preview) 🌀`, `text blocks ✅`
-- v16 : `sealed classes (preview) 🌀`, `record classes ✅`, `instanceof ✅`, `text blocks ✅`
+- v16 : `sealed classes (preview) 🌀`, `record classes ✅`, `instanceof ✅`
 - v17 LTS: `sealed classes ✅`, `matching switch (preview) 🌀`
 - v18 : `matching switch (preview) 🌀`
 - v19 : `matching switch (preview) 🌀`, `record patterns (preview) 🌀`
