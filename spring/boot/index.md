@@ -6,3 +6,4 @@
 
 1. https://github.com/spring-projects/spring-boot/wiki#release-notes
 2. https://spring.io/blog/category/releases
+3. https://github.com/spring-projects/spring-boot/releases
