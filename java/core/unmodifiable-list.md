@@ -6,7 +6,7 @@
 ## what / why ?
 -  elements cannot be added, removed, or replaced
 - holds the same data as long as a reference to it exists
-- generally consume much less memory than modifiable collection
+- an unmodifiable collection **is only immutable if the elements contained in the collection are immutable**
 
 ## when ?
 - depends on the data in the collection
@@ -93,3 +93,16 @@ List<Item> snapshot = List.copyOf(list);
     Collectors.toUnmodifiableMap(keyMapper, valueMapper, mergeFunction)
 ```
 - it merge the values of each duplicate key into a single value.
+
+## Randomized iteration order
+- Iteration order for Set elements and Map keys is randomized
+- different from one JVM run to the next
+- easier to identify code that depends on iteration order
+- can cause problems that are difficult to debug
+- methodes concernées : toutes sauf `HashMap` et `HashSet`
+- => **!!! l'algo ne doit pas être basé sur l'ordre naturel de la collection**
+
+## Perfs & thread 
+- generally consume much **less memory** than modifiable collection
+- it is considered **thread safe without requiring any additional effort**
+- To be considered thread safe, collections created using the static factory methods and toUnmodifiable- collectors must contain only immutable elements.
