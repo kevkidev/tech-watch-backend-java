@@ -1,15 +1,13 @@
-[ROOT_URL]: https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/core/
-
 # Core Lib Updates
 ## v11 + :
 ### Main
 - Serialization Filtering
 - Enhanced Deprecation
 - XML Catalog API
-- [Creating Unmodifiable Lists, Sets, and Maps]([ROOT_URL]unmodifiable-list.md)
+- [Creating Unmodifiable Lists, Sets, and Maps](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/core/unmodifiable-list.md)
 - Process API
 - Preferences API
-- [Java Logging]([ROOT_URL]logging.md)
+- [Java Logging](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/core/logging.md)
 - Internationalization
 
 ### Security
