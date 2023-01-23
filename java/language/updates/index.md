@@ -28,4 +28,6 @@
 - v15+ : [Text Blocks](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/java15.md)
 - v16+
   - [Record Classes](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/record.md)
-  - [Pattern Matching for instanceof]()
+  - [Pattern Matching for instanceof](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/pattern-matching-instanceof.md)
+- v17+
+  - [Sealed classes](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/sealed-classes.md)

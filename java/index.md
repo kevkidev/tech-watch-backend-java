@@ -16,11 +16,11 @@ https://dev.java/evolution/
 
 # Laguages updates
 
-see : [Java language updates](1.1-Java-language-updates)
+see : [Java language updates](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/language/updates/index.md)
 
 # Core Libraries Updates
 
-see : [Core Lib Updates](1.2-Core-Lib-Updates)
+see : [Core Lib Updates](https://github.com/kevkidev/tech-watch-backend-java/blob/master/java/core/index.md)
 
 # Security
 
